@@ -338,3 +338,39 @@ ls
 exit
 ls
 exit
+ls
+sud docker swarm init --advertise-addr=172.31.38.50
+sudo docker swarm init --advertise-addr=172.31.38.50
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/twinkite/sw_engineering.git
+git push origin master
+sudo docker ls
+sudo docker node ls
+mkdir swarm
+ls
+cd swarm
+ls
+sudo docker node ls
+vi dockerfile
+sudo docker build
+sudo docker build . -t twinkite/test
+sudo docker service create --name apache --replicas 5 -p 5000:80 swedemo/test
+sudo docker service create --name apache --replicas 5 -p 5000:80 twinkite/test
+docker swarm leave --force
+sudo docker swarm leave --force
+sudo docker node ls
+sudo docker swarm init --advertise-addr=172.31.38.50
+sudo docker node ls
+sudo docker service create --name apache --replicas 5 -p 5000:80 twinkite/test
+sudo docker node ls
+sudo docker ps
+sudo docker kill e8a843efd10b
+sudo docker ps
+sudo docker kill a2e82a2d043d
+sudo docker ps
+docker swarm leave --force
+sudo docker swarm leave --force
+sudo docker ps
+exit

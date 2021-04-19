@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1618410236,,"wq"
+|2,0,1618826189,,"wq"
 :q!
 |2,0,1618408919,,"q!"
 :wqq
@@ -31,46 +31,138 @@
 # Registers:
 
 # File marks:
-'0  28  11  ~/my_wordpress/docker-compose.yml
-|4,48,28,11,1618410236,"~/my_wordpress/docker-compose.yml"
-'1  25  54  ~/my_wordpress/docker-compose.yml
-|4,49,25,54,1618410008,"~/my_wordpress/docker-compose.yml"
-'2  28  30  ~/my_wordpress/docker-compose.yml
-|4,50,28,30,1618410008,"~/my_wordpress/docker-compose.yml"
-'3  25  64  ~/my_wordpress/docker-compose.yml
-|4,51,25,64,1618409994,"~/my_wordpress/docker-compose.yml"
-'4  28  40  ~/my_wordpress/docker-compose.yml
-|4,52,28,40,1618409994,"~/my_wordpress/docker-compose.yml"
+'0  6  33  ~/swarm/dockerfile
+|4,48,6,33,1618826189,"~/swarm/dockerfile"
+'1  6  33  ~/swarm/dockerfile
+|4,49,6,33,1618826118,"~/swarm/dockerfile"
+'2  28  11  ~/my_wordpress/docker-compose.yml
+|4,50,28,11,1618410236,"~/my_wordpress/docker-compose.yml"
+'3  25  54  ~/my_wordpress/docker-compose.yml
+|4,51,25,54,1618410008,"~/my_wordpress/docker-compose.yml"
+'4  28  30  ~/my_wordpress/docker-compose.yml
+|4,52,28,30,1618410008,"~/my_wordpress/docker-compose.yml"
 '5  25  64  ~/my_wordpress/docker-compose.yml
-|4,53,25,64,1618409814,"~/my_wordpress/docker-compose.yml"
-'6  25  64  ~/my_wordpress/docker-compose.yml
-|4,54,25,64,1618409814,"~/my_wordpress/docker-compose.yml"
-'7  28  40  ~/my_wordpress/docker-compose.yml
-|4,55,28,40,1618409814,"~/my_wordpress/docker-compose.yml"
-'8  28  40  ~/my_wordpress/docker-compose.yml
-|4,56,28,40,1618409814,"~/my_wordpress/docker-compose.yml"
-'9  24  3  ~/my_wordpress/docker-compose.yml
-|4,57,24,3,1618409317,"~/my_wordpress/docker-compose.yml"
+|4,53,25,64,1618409994,"~/my_wordpress/docker-compose.yml"
+'6  28  40  ~/my_wordpress/docker-compose.yml
+|4,54,28,40,1618409994,"~/my_wordpress/docker-compose.yml"
+'7  25  64  ~/my_wordpress/docker-compose.yml
+|4,55,25,64,1618409814,"~/my_wordpress/docker-compose.yml"
+'8  25  64  ~/my_wordpress/docker-compose.yml
+|4,56,25,64,1618409814,"~/my_wordpress/docker-compose.yml"
+'9  28  40  ~/my_wordpress/docker-compose.yml
+|4,57,28,40,1618409814,"~/my_wordpress/docker-compose.yml"
 
 # Jumplist (newest first):
+-'  6  33  ~/swarm/dockerfile
+|4,39,6,33,1618826189,"~/swarm/dockerfile"
+-'  6  33  ~/swarm/dockerfile
+|4,39,6,33,1618826118,"~/swarm/dockerfile"
+-'  1  0  ~/swarm/dockerfile
+|4,39,1,0,1618826002,"~/swarm/dockerfile"
+-'  1  0  ~/swarm/dockerfile
+|4,39,1,0,1618826002,"~/swarm/dockerfile"
 -'  28  11  ~/my_wordpress/docker-compose.yml
 |4,39,28,11,1618410236,"~/my_wordpress/docker-compose.yml"
+-'  28  11  ~/my_wordpress/docker-compose.yml
+|4,39,28,11,1618410236,"~/my_wordpress/docker-compose.yml"
+-'  28  11  ~/my_wordpress/docker-compose.yml
+|4,39,28,11,1618410236,"~/my_wordpress/docker-compose.yml"
+-'  28  11  ~/my_wordpress/docker-compose.yml
+|4,39,28,11,1618410236,"~/my_wordpress/docker-compose.yml"
+-'  1  0  ~/my_wordpress/docker-compose.yml
+|4,39,1,0,1618410035,"~/my_wordpress/docker-compose.yml"
+-'  1  0  ~/my_wordpress/docker-compose.yml
+|4,39,1,0,1618410035,"~/my_wordpress/docker-compose.yml"
+-'  1  0  ~/my_wordpress/docker-compose.yml
+|4,39,1,0,1618410035,"~/my_wordpress/docker-compose.yml"
 -'  1  0  ~/my_wordpress/docker-compose.yml
 |4,39,1,0,1618410035,"~/my_wordpress/docker-compose.yml"
 -'  25  54  ~/my_wordpress/docker-compose.yml
 |4,39,25,54,1618410008,"~/my_wordpress/docker-compose.yml"
 -'  28  30  ~/my_wordpress/docker-compose.yml
 |4,39,28,30,1618410008,"~/my_wordpress/docker-compose.yml"
+-'  25  54  ~/my_wordpress/docker-compose.yml
+|4,39,25,54,1618410008,"~/my_wordpress/docker-compose.yml"
+-'  28  30  ~/my_wordpress/docker-compose.yml
+|4,39,28,30,1618410008,"~/my_wordpress/docker-compose.yml"
+-'  25  54  ~/my_wordpress/docker-compose.yml
+|4,39,25,54,1618410008,"~/my_wordpress/docker-compose.yml"
+-'  28  30  ~/my_wordpress/docker-compose.yml
+|4,39,28,30,1618410008,"~/my_wordpress/docker-compose.yml"
+-'  25  54  ~/my_wordpress/docker-compose.yml
+|4,39,25,54,1618410008,"~/my_wordpress/docker-compose.yml"
+-'  28  30  ~/my_wordpress/docker-compose.yml
+|4,39,28,30,1618410008,"~/my_wordpress/docker-compose.yml"
+-'  1  0  ~/my_wordpress/docker-compose.yml
+|4,39,1,0,1618410002,"~/my_wordpress/docker-compose.yml"
+-'  1  0  ~/my_wordpress/docker-compose.yml
+|4,39,1,0,1618410002,"~/my_wordpress/docker-compose.yml"
+-'  1  0  ~/my_wordpress/docker-compose.yml
+|4,39,1,0,1618410002,"~/my_wordpress/docker-compose.yml"
 -'  1  0  ~/my_wordpress/docker-compose.yml
 |4,39,1,0,1618410002,"~/my_wordpress/docker-compose.yml"
 -'  28  40  ~/my_wordpress/docker-compose.yml
 |4,39,28,40,1618409994,"~/my_wordpress/docker-compose.yml"
+-'  28  40  ~/my_wordpress/docker-compose.yml
+|4,39,28,40,1618409994,"~/my_wordpress/docker-compose.yml"
+-'  28  40  ~/my_wordpress/docker-compose.yml
+|4,39,28,40,1618409994,"~/my_wordpress/docker-compose.yml"
+-'  28  40  ~/my_wordpress/docker-compose.yml
+|4,39,28,40,1618409994,"~/my_wordpress/docker-compose.yml"
+-'  28  40  ~/my_wordpress/docker-compose.yml
+|4,39,28,40,1618409814,"~/my_wordpress/docker-compose.yml"
+-'  28  40  ~/my_wordpress/docker-compose.yml
+|4,39,28,40,1618409814,"~/my_wordpress/docker-compose.yml"
+-'  28  40  ~/my_wordpress/docker-compose.yml
+|4,39,28,40,1618409814,"~/my_wordpress/docker-compose.yml"
 -'  28  40  ~/my_wordpress/docker-compose.yml
 |4,39,28,40,1618409814,"~/my_wordpress/docker-compose.yml"
 -'  1  0  ~/my_wordpress/docker-compose.yml
 |4,39,1,0,1618409802,"~/my_wordpress/docker-compose.yml"
 -'  1  0  ~/my_wordpress/docker-compose.yml
 |4,39,1,0,1618409802,"~/my_wordpress/docker-compose.yml"
+-'  1  0  ~/my_wordpress/docker-compose.yml
+|4,39,1,0,1618409802,"~/my_wordpress/docker-compose.yml"
+-'  1  0  ~/my_wordpress/docker-compose.yml
+|4,39,1,0,1618409802,"~/my_wordpress/docker-compose.yml"
+-'  1  0  ~/my_wordpress/docker-compose.yml
+|4,39,1,0,1618409802,"~/my_wordpress/docker-compose.yml"
+-'  1  0  ~/my_wordpress/docker-compose.yml
+|4,39,1,0,1618409802,"~/my_wordpress/docker-compose.yml"
+-'  1  0  ~/my_wordpress/docker-compose.yml
+|4,39,1,0,1618409802,"~/my_wordpress/docker-compose.yml"
+-'  1  0  ~/my_wordpress/docker-compose.yml
+|4,39,1,0,1618409802,"~/my_wordpress/docker-compose.yml"
+-'  24  3  ~/my_wordpress/docker-compose.yml
+|4,39,24,3,1618409317,"~/my_wordpress/docker-compose.yml"
+-'  26  3  ~/my_wordpress/docker-compose.yml
+|4,39,26,3,1618409317,"~/my_wordpress/docker-compose.yml"
+-'  26  3  ~/my_wordpress/docker-compose.yml
+|4,39,26,3,1618409317,"~/my_wordpress/docker-compose.yml"
+-'  26  3  ~/my_wordpress/docker-compose.yml
+|4,39,26,3,1618409317,"~/my_wordpress/docker-compose.yml"
+-'  26  3  ~/my_wordpress/docker-compose.yml
+|4,39,26,3,1618409317,"~/my_wordpress/docker-compose.yml"
+-'  24  3  ~/my_wordpress/docker-compose.yml
+|4,39,24,3,1618409317,"~/my_wordpress/docker-compose.yml"
+-'  26  3  ~/my_wordpress/docker-compose.yml
+|4,39,26,3,1618409317,"~/my_wordpress/docker-compose.yml"
+-'  26  3  ~/my_wordpress/docker-compose.yml
+|4,39,26,3,1618409317,"~/my_wordpress/docker-compose.yml"
+-'  26  3  ~/my_wordpress/docker-compose.yml
+|4,39,26,3,1618409317,"~/my_wordpress/docker-compose.yml"
+-'  26  3  ~/my_wordpress/docker-compose.yml
+|4,39,26,3,1618409317,"~/my_wordpress/docker-compose.yml"
+-'  24  3  ~/my_wordpress/docker-compose.yml
+|4,39,24,3,1618409317,"~/my_wordpress/docker-compose.yml"
+-'  26  3  ~/my_wordpress/docker-compose.yml
+|4,39,26,3,1618409317,"~/my_wordpress/docker-compose.yml"
+-'  26  3  ~/my_wordpress/docker-compose.yml
+|4,39,26,3,1618409317,"~/my_wordpress/docker-compose.yml"
+-'  26  3  ~/my_wordpress/docker-compose.yml
+|4,39,26,3,1618409317,"~/my_wordpress/docker-compose.yml"
+-'  26  3  ~/my_wordpress/docker-compose.yml
+|4,39,26,3,1618409317,"~/my_wordpress/docker-compose.yml"
 -'  24  3  ~/my_wordpress/docker-compose.yml
 |4,39,24,3,1618409317,"~/my_wordpress/docker-compose.yml"
 -'  26  3  ~/my_wordpress/docker-compose.yml
@@ -91,6 +183,42 @@
 |4,39,29,1,1618409281,"~/my_wordpress/docker-compose.yml"
 -'  29  1  ~/my_wordpress/docker-compose.yml
 |4,39,29,1,1618409281,"~/my_wordpress/docker-compose.yml"
+-'  26  1  ~/my_wordpress/docker-compose.yml
+|4,39,26,1,1618409281,"~/my_wordpress/docker-compose.yml"
+-'  29  1  ~/my_wordpress/docker-compose.yml
+|4,39,29,1,1618409281,"~/my_wordpress/docker-compose.yml"
+-'  29  1  ~/my_wordpress/docker-compose.yml
+|4,39,29,1,1618409281,"~/my_wordpress/docker-compose.yml"
+-'  29  1  ~/my_wordpress/docker-compose.yml
+|4,39,29,1,1618409281,"~/my_wordpress/docker-compose.yml"
+-'  29  1  ~/my_wordpress/docker-compose.yml
+|4,39,29,1,1618409281,"~/my_wordpress/docker-compose.yml"
+-'  26  1  ~/my_wordpress/docker-compose.yml
+|4,39,26,1,1618409281,"~/my_wordpress/docker-compose.yml"
+-'  29  1  ~/my_wordpress/docker-compose.yml
+|4,39,29,1,1618409281,"~/my_wordpress/docker-compose.yml"
+-'  29  1  ~/my_wordpress/docker-compose.yml
+|4,39,29,1,1618409281,"~/my_wordpress/docker-compose.yml"
+-'  29  1  ~/my_wordpress/docker-compose.yml
+|4,39,29,1,1618409281,"~/my_wordpress/docker-compose.yml"
+-'  29  1  ~/my_wordpress/docker-compose.yml
+|4,39,29,1,1618409281,"~/my_wordpress/docker-compose.yml"
+-'  26  1  ~/my_wordpress/docker-compose.yml
+|4,39,26,1,1618409281,"~/my_wordpress/docker-compose.yml"
+-'  29  1  ~/my_wordpress/docker-compose.yml
+|4,39,29,1,1618409281,"~/my_wordpress/docker-compose.yml"
+-'  29  1  ~/my_wordpress/docker-compose.yml
+|4,39,29,1,1618409281,"~/my_wordpress/docker-compose.yml"
+-'  29  1  ~/my_wordpress/docker-compose.yml
+|4,39,29,1,1618409281,"~/my_wordpress/docker-compose.yml"
+-'  29  1  ~/my_wordpress/docker-compose.yml
+|4,39,29,1,1618409281,"~/my_wordpress/docker-compose.yml"
+-'  29  1  ~/my_wordpress/docker-compose.yml
+|4,39,29,1,1618409271,"~/my_wordpress/docker-compose.yml"
+-'  29  1  ~/my_wordpress/docker-compose.yml
+|4,39,29,1,1618409271,"~/my_wordpress/docker-compose.yml"
+-'  29  1  ~/my_wordpress/docker-compose.yml
+|4,39,29,1,1618409271,"~/my_wordpress/docker-compose.yml"
 -'  29  1  ~/my_wordpress/docker-compose.yml
 |4,39,29,1,1618409271,"~/my_wordpress/docker-compose.yml"
 -'  3  1  ~/my_wordpress/docker-compose.yml
@@ -105,156 +233,36 @@
 |4,39,4,1,1618409162,"~/my_wordpress/docker-compose.yml"
 -'  4  1  ~/my_wordpress/docker-compose.yml
 |4,39,4,1,1618409162,"~/my_wordpress/docker-compose.yml"
+-'  3  1  ~/my_wordpress/docker-compose.yml
+|4,39,3,1,1618409162,"~/my_wordpress/docker-compose.yml"
 -'  4  1  ~/my_wordpress/docker-compose.yml
-|4,39,4,1,1618409127,"~/my_wordpress/docker-compose.yml"
--'  4  3  ~/my_wordpress/docker-compose.yml
-|4,39,4,3,1618409106,"~/my_wordpress/docker-compose.yml"
--'  29  11  ~/my_wordpress/docker-compose.yml
-|4,39,29,11,1618409094,"~/my_wordpress/docker-compose.yml"
--'  29  11  ~/my_wordpress/docker-compose.yml
-|4,39,29,11,1618409094,"~/my_wordpress/docker-compose.yml"
--'  29  11  ~/my_wordpress/docker-compose.yml
-|4,39,29,11,1618409079,"~/my_wordpress/docker-compose.yml"
--'  1  0  ~/my_wordpress/docker-compose.yml
-|4,39,1,0,1618408924,"~/my_wordpress/docker-compose.yml"
--'  1  0  ~/my_wordpress/docker-compose.yml
-|4,39,1,0,1618408924,"~/my_wordpress/docker-compose.yml"
--'  1  0  ~/my_wordpress/docker-compose.yml
-|4,39,1,0,1618408924,"~/my_wordpress/docker-compose.yml"
--'  1  0  ~/my_wordpress/docker-compose.yml
-|4,39,1,0,1618408924,"~/my_wordpress/docker-compose.yml"
--'  1  0  ~/my_wordpress/docker-compose.yml
-|4,39,1,0,1618408924,"~/my_wordpress/docker-compose.yml"
--'  28  40  ~/my_wordpress/docker-compose.yml
-|4,39,28,40,1618408919,"~/my_wordpress/docker-compose.yml"
--'  26  40  ~/my_wordpress/docker-compose.yml
-|4,39,26,40,1618408919,"~/my_wordpress/docker-compose.yml"
--'  28  40  ~/my_wordpress/docker-compose.yml
-|4,39,28,40,1618408919,"~/my_wordpress/docker-compose.yml"
--'  26  40  ~/my_wordpress/docker-compose.yml
-|4,39,26,40,1618408919,"~/my_wordpress/docker-compose.yml"
--'  28  40  ~/my_wordpress/docker-compose.yml
-|4,39,28,40,1618408919,"~/my_wordpress/docker-compose.yml"
--'  26  40  ~/my_wordpress/docker-compose.yml
-|4,39,26,40,1618408919,"~/my_wordpress/docker-compose.yml"
--'  28  40  ~/my_wordpress/docker-compose.yml
-|4,39,28,40,1618408919,"~/my_wordpress/docker-compose.yml"
--'  26  40  ~/my_wordpress/docker-compose.yml
-|4,39,26,40,1618408919,"~/my_wordpress/docker-compose.yml"
--'  28  40  ~/my_wordpress/docker-compose.yml
-|4,39,28,40,1618408919,"~/my_wordpress/docker-compose.yml"
--'  1  0  ~/my_wordpress/docker-compose.yml
-|4,39,1,0,1618408904,"~/my_wordpress/docker-compose.yml"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1618408883,"~/.vimrc"
+|4,39,4,1,1618409162,"~/my_wordpress/docker-compose.yml"
+-'  4  1  ~/my_wordpress/docker-compose.yml
+|4,39,4,1,1618409162,"~/my_wordpress/docker-compose.yml"
+-'  4  1  ~/my_wordpress/docker-compose.yml
+|4,39,4,1,1618409162,"~/my_wordpress/docker-compose.yml"
+-'  4  1  ~/my_wordpress/docker-compose.yml
+|4,39,4,1,1618409162,"~/my_wordpress/docker-compose.yml"
+-'  4  1  ~/my_wordpress/docker-compose.yml
+|4,39,4,1,1618409162,"~/my_wordpress/docker-compose.yml"
+-'  3  1  ~/my_wordpress/docker-compose.yml
+|4,39,3,1,1618409162,"~/my_wordpress/docker-compose.yml"
+-'  4  1  ~/my_wordpress/docker-compose.yml
+|4,39,4,1,1618409162,"~/my_wordpress/docker-compose.yml"
+-'  4  1  ~/my_wordpress/docker-compose.yml
+|4,39,4,1,1618409162,"~/my_wordpress/docker-compose.yml"
+-'  4  1  ~/my_wordpress/docker-compose.yml
+|4,39,4,1,1618409162,"~/my_wordpress/docker-compose.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/swarm/dockerfile
+	*	1618826189	0
+	"	6	33
+	^	6	34
+	.	2	33
+	+	6	33
+	+	2	33
 
 > ~/my_wordpress/docker-compose.yml
 	*	1618410236	0
